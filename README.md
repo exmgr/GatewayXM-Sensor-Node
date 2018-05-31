@@ -1,3 +1,3 @@
 # ESP8266/32 mesh sensor node with OTA support
 
-For documentation refer to [GatewayXM](https://github.com/exmgr/GatewayXM)
+This is a part of GatewayXM, for documentation please refer to the [GatewayXM repository](https://github.com/exmgr/GatewayXM).
